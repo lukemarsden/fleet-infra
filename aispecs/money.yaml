@@ -3,6 +3,7 @@ kind: AIApp
 metadata:
   name: money
 spec:
+  description: Exchange rate chatbot
   assistants:
     - model: meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo
       type: text
